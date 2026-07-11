@@ -1,0 +1,1 @@
+print("Deepak","Deepak","Deepak","Deepak","Deepak","Deepak","Deepak","Deepak","Deepak","Deepak");
